@@ -1,10 +1,10 @@
 {
     "config":
     {
-        "strava_client_id" : "",
-        "strava_client_secret" : "",
-        "strava_code" : "",
-        "adidas_workout_folder" : ""
+        "strava_client_id" : "152134",
+        "strava_client_secret" : "74d9cd296da4d231dc3eca77b4ec7f8eb4ed93d8",
+        "strava_code" : "329a96980a8a5a2fd2ab667e8e08fbedd56ff1d9",
+        "adidas_workout_folder" : "C:\Users\Armika\Downloads\export-20250309-000\Sport-sessions"
     }
 }
 
